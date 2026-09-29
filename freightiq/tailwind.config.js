@@ -1,0 +1,1 @@
+module.exports={content:['./index.html','./src/**/*.{ts,tsx}'],theme:{extend:{fontFamily:{sora:['Sora','sans-serif'],sans:['Inter','system-ui','sans-serif']}}},plugins:[]}
